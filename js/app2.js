@@ -15,6 +15,9 @@ aplicarDescuento
         console.error(error);
     })
 
+/* Crear con Javascript un código para que se pueda mostrar en el DOM la info que devuelve la promesa */
+
+
 /* console.log(aplicarDescuento);*/
 
 //Existen 3 estados de las promesas
